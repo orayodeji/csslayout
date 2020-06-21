@@ -1,0 +1,8 @@
+body {background-color:#fba981}
+#wrap {background-color: white;box-sizing: border-box;border-style: dotted;width:50%;margin:auto;height:90%%;}
+h1 {margin:auto;text-align: center;border-bottom: dotted;}
+p {margin-left: 10px; margin-right:10px; text-align: justify;}
+ul {text-align: center;list-style: none;}
+li {font-family:serif;font-style: italic;}
+li a { font-size: 24px;}
+.copyright {text-align: center;}

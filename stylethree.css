@@ -1,0 +1,10 @@
+body {background-color: rgb(150, 150, 48);width:100%;font-family:sans-serif;}
+#wrap {display:flex;position: absolute;top:0;margin-left: 200px;height: 422px;}
+#nav {background-color: rgb(100, 177, 104);margin-left: 20px;width:15%;}
+#nav h2 {text-align: center;}
+#nav ul {margin-left: 5px;}
+#content {background-color: tomato;width:50%;}
+#content h1 {margin-left: 40px;}
+#content p {text-align: center;margin:auto;}
+#content li {text-align: center;list-style-type:none;}
+.copyright {padding-top: 10px;}

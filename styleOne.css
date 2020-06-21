@@ -1,0 +1,7 @@
+body {background-color: rgb(79, 79, 145);width:844px;height: 421px;}
+p { font-size: 19px;}
+ul {font-size:19px; padding-left: 120px;list-style: inside;text-align: center;}
+
+h1 {font-weight: bolder;font-stretch: extra-expanded;}
+.copyright {font-size: medium;}
+a {color:purple;}

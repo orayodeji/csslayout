@@ -1,0 +1,8 @@
+body {background-color:hsl(197, 77%, 58%);width: 831px;height: 606px;margin-top: 40px;margin-left: 20px;}
+
+h1 {margin:auto;}
+p {margin:auto;font-size: large;}
+ul {text-align: center;list-style: none;}
+li {font-family:serif;font-style: italic;font-weight: bold;}
+li a { font-size: 24px;}
+.copyright {text-align: left;}

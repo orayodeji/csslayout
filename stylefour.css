@@ -1,0 +1,15 @@
+body {background-color: teal;font-family: sans-serif;}
+#wrap {margin-left:250px;background-color:turquoise;position:absolute; top: 0px;width:55%;}
+#header h1 {text-align: right;margin-right: 30px;}
+#nav {background-color: tomato;height: 30px; border-bottom: dashed; border-color: white;}
+#nav ul {padding-top: 5px;margin-left:40px;}
+#nav ul li{display:inline; justify-content: space-around;margin-left: 20px;}
+.main {display:flex;flex-direction: row-reverse;}
+#sidebar {width:25%;}
+#sidebar h2 {text-align: center;}
+#content {width:75%;background-color:orange;}
+h1 {margin-left: 20px;}
+p {margin-left: 20px;}
+#content ul {list-style: none;text-align: center;font-weight: bold;}
+#footer {background-color: tomato;position: relative;padding-top: 1px;}
+.copyright {margin:auto;}
